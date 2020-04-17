@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name eco_measurement_ina226)(type KiCad)(uri ${KIPRJMOD}/eco_measurement_ina226.pretty)(options "")(descr ""))
+)
