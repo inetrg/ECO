@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name rpi_mrf_radio_shield)(type Legacy)(uri ${KIPRJMOD}/rpi_mrf_radio_shield.lib)(options "")(descr ""))
+)

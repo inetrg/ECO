@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name oshw_logo_with_courtyard)(type KiCad)(uri ${KIPRJMOD}/oshw_logo_with_courtyard.pretty)(options "")(descr ""))
+)
