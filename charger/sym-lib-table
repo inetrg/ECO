@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name eco_charger_ltc3105)(type Legacy)(uri ${KIPRJMOD}/eco_charger_ltc3105.lib)(options "")(descr ""))
+)
