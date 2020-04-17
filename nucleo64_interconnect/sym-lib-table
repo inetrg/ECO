@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name eco_nucleo64_interconnect)(type Legacy)(uri ${KIPRJMOD}/eco_nucleo64_interconnect.lib)(options "")(descr ""))
+  (lib (name sparkfun_sdcard_breakout)(type Legacy)(uri ${KIPRJMOD}/sparkfun_sdcard_breakout.lib)(options "")(descr ""))
+)

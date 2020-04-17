@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name sparkfun_sdcard_breakout)(type KiCad)(uri "$(KIPRJMOD)/sparkfun_sdcard_breakout.pretty")(options "")(descr ""))
+)
