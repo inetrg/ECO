@@ -24,3 +24,10 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# FreeCAD
+*.FCStd1
+
+# Blender
+*.blend1
+
