@@ -37,3 +37,10 @@ In FreeCAD any missing mechanical design can then be aligned around the PCB and 
 To export the whole model from FreeCAD to blender the format that worked best for us is *gltf.
 However, there is a problem with colors/materials that are only applied to faces (instead of whole objects) and if exported directly to gltf the colors will disappear.
 A workaround for that is to first export to "STEP with colors" then import to FreeCAD again, an then do the export to gltf for blender. This way the colors that are present on KiCAD models don't get lost.
+
+# Third Party Material
+Some CAD models of PCB components and the assembly design use third party material from [SnapEDA](https://www.snapeda.com/) and [GrabCAD](https://grabcad.com).
+
+# Further Information
+Firmware sources can be found in a [separate repository](https://github.com/inetrg/ECO-fw).
+For more information also visit our [project website](https://eco.inet.haw-hamburg.de).
