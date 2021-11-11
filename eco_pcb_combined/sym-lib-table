@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name eco_charger_ltc3105)(type Legacy)(uri ${KIPRJMOD}/../charger/eco_charger_ltc3105.lib)(options "")(descr ""))
+  (lib (name eco_measurement_ina226)(type Legacy)(uri ${KIPRJMOD}/../measurement/eco_measurement_ina226.lib)(options "")(descr ""))
+  (lib (name sparkfun_sdcard_breakout)(type Legacy)(uri ${KIPRJMOD}/../nucleo64_interconnect/sparkfun_sdcard_breakout.lib)(options "")(descr ""))
+  (lib (name eco_nucleo64_interconnect)(type Legacy)(uri ${KIPRJMOD}/../nucleo64_interconnect/eco_nucleo64_interconnect.lib)(options "")(descr ""))
+  (lib (name L96)(type Legacy)(uri ${KIPRJMOD}/../libs/L96.lib)(options "")(descr ""))
+  (lib (name eco_custom_symbols)(type Legacy)(uri ${KIPRJMOD}/../libs/eco_custom_symbols.lib)(options "")(descr ""))
+)

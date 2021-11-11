@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name eco_custom_footprints)(type KiCad)(uri ${KIPRJMOD}/../libs/eco_custom_footprints)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/../logos)(options "")(descr ""))
+)
