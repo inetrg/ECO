@@ -43,4 +43,4 @@ Some CAD models of PCB components and the assembly design use third party materi
 
 # Further Information
 Firmware sources can be found in a [separate repository](https://github.com/inetrg/ECO-fw).
-For more information also visit our [project website](https://eco.inet.haw-hamburg.de).
+For more information also visit our [project website](https://eco.riot-apps.net).
